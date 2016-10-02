@@ -1,0 +1,27 @@
+/* combined menu */
+
+.masterslider .masterlabel,
+.masterslider .slider {
+    width: 187px;
+}
+/* stand-alone menu */
+
+.shellvolumemixer {
+    width: 360px;
+}
+
+.shellvolumemixer .masterslider .masterlabel,
+.shellvolumemixer .masterslider .slider {
+    width: 258px;
+}
+
+
+/* common */
+
+.selected-stream {
+    font-weight: bold;
+}
+
+.floating-label {
+    background-color: rgba(0, 0, 0, 0.9);
+}
